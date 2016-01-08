@@ -12,7 +12,7 @@ K167e_post = posteriors for planet Kepler-167e from a transit light curve fit
 Each .dat file contains 20,000 fair samples drawn from the full posteriors. Each .pdf file displays a triangle plot (generated using https://github.com/dfm/corner.py).
 
 Columns for K167_post.dat
-[1] Effective Temperature, T_eff [Kelvin]
+[1] Effective Temperature, T_eff [Kelvin] \\
 [2] Metallically, Fe/H
 [3] Stellar Mass, M_* [Solar Masses]
 [4] Stellar Radius, M_* [Solar Masses]
