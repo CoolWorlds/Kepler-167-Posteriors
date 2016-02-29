@@ -1,7 +1,7 @@
 # Kepler-167-Posteriors
 This repository contains the a-posteriori distributions of parameters for Kepler-167 planetary system, as derived in the paper:
 
-Kipping, D. M., Torres, G., Henze, C., Teachey, A., Isaacson, H., Petigura, E., Marcy, G. W., Buchhave, L. A., Chen, J., Bryson, S. T. & Sandford, E. 2016, ApJ, submitted
+Kipping, D. M., Torres, G., Henze, C., Teachey, A., Isaacson, H., Petigura, E., Marcy, G. W., Buchhave, L. A., Chen, J., Bryson, S. T. & Sandford, E. 2016, ApJ, accepted
 
 There are three sets of files:
 
