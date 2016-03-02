@@ -31,7 +31,7 @@ Columns for K167_post.dat
 
 Columns for K167bcd_post.dat
 
-[1] Log Stellar Density, log rho* [dex]
+[1] Log Stellar Density, log rho* [log of kg/m^3]
 
 [2] Reparametrized Quadratic Limb Darkening Coefficient 1, q1
 
@@ -65,7 +65,7 @@ Columns for K167bcd_post.dat
 
 Columns for K167e_post.dat
 
-[1] Log Stellar Density, log rho* [dex]
+[1] Log Stellar Density, log rho* [log of kg/m^3]
 
 [2] Reparametrized Quadratic Limb Darkening Coefficient 1, q1
 
@@ -83,4 +83,4 @@ Columns for K167e_post.dat
 
 [9] Eccentricity for Planet e
 
-[10] Argument of Periastron for Planet e [rads]
+[10] Argument of Periastron for Planet w [rads]
